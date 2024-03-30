@@ -1,0 +1,6 @@
+.inline-block {
+    display: inline;
+    width: 400px;
+    height: 400px;
+    background-color: blueviolet;
+}
